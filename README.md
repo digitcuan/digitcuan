@@ -1,16 +1,39 @@
-## Hi there 👋
+# DigitCuan
 
-<!--
-**digitcuan/digitcuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Media + Education + Tools + Digital Products**
 
-Here are some ideas to get you started:
+DigitCuan adalah media edukasi digital dan ekosistem tools yang membahas AI, affiliate marketing, content creation, digital marketing, automation, produktivitas, dan workflow digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Website:** https://digitcuan.site
+
+## Fokus DigitCuan
+
+- AI & Tools
+- Affiliate Marketing
+- Content Creation
+- Digital Marketing
+- Automation
+- Productivity & Workflow
+- Digital Products
+
+## Yang Kami Bangun
+
+DigitCuan mengembangkan konten edukatif, AI tools, automation, template, workflow, dan produk digital untuk membantu pekerjaan digital menjadi lebih praktis dan terstruktur.
+
+## Project Utama
+
+- Website resmi: https://digitcuan.site
+- WordPress custom theme & plugin: `digitcuan-wordpress`
+- Tools ecosystem: dalam pengembangan
+
+## Prinsip
+
+Kami fokus pada edukasi, strategi, eksperimen, tools, dan eksekusi nyata.
+
+Tidak ada janji “cepat kaya”, “auto cuan”, atau klaim penghasilan yang tidak dapat diverifikasi.
+
+---
+
+### Belajar Digital. Buka Peluang.
+
+© DigitCuan
